@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Eric 👋
 
 I'm a **Java Developer** with **3 years of experience**, specializing in building robust and scalable applications. I hold a **degree in Software Development**, and I'm currently expanding my skill set by learning **JavaScript and React** to enhance my full-stack development capabilities.
 
